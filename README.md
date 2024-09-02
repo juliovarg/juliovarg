@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋, Sou o Julio Oliveira</h1>
+<h1 align="center">Olá 👋, meu nome é Julio Oliveira</h1>
+<h2>Sou estudante de Engenharia de Software</h2>
 
 ###
 
