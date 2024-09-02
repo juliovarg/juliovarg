@@ -4,8 +4,8 @@
 ###
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliovarg&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliovarg&theme=dracula" alt="Julio's GitHub stats">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliovarg&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliovarg&theme=tokyonight" alt="Julio's GitHub stats">  
   
 ###
 
